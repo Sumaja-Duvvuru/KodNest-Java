@@ -1,5 +1,5 @@
 
-public class ifelseto_switch {
+public class Ifelseto_switch {
 
     public static void main(String[] args) {
         int day = 6;
