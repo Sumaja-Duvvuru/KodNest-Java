@@ -19,7 +19,7 @@ public class BuildInMethods {
         System.out.println(str.indexOf('z'));//-1
         System.out.println(str.lastIndexOf('n'));//13
         System.out.println(str.substring(5));//st Technologies
-        System.out.println(str.substring(5, 10));//st Tec
+        System.out.println(str.substring(5, 10));//st Te
         System.out.println(str.replace('e', 'a'));//Kodnast Tachnologias
         String s1 = "";
         System.out.println(s1.isEmpty());//false
