@@ -1,5 +1,5 @@
 
-public class Book {
+class Book {
 
     private int pageNum;
 
